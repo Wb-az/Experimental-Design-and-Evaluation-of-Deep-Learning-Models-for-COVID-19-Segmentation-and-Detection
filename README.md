@@ -67,8 +67,8 @@ The sliced dataset was randomly split using the three-way holdout method with ra
 
 **Associated code**
 
-- ``` utility\convert_nii2png.py```
-- ```utility\nii_vis_dataset.ipyn ``` 
+- ``` utility/convert_nii2png.py```
+- ```utility/nii_vis_dataset.ipyn ``` 
 
 
 ### 4.2 Training and Validation
@@ -89,7 +89,7 @@ __Table 2__ Experimental parameters.
 - ```covid_dataset.py```
 - ```detection``` folder
 - ```detection``` folder
-- `````` utility\plotting.py``````
+- `````` utility/plotting.py``````
 - ```maskrcnn_main.ipynb```
 
 
